@@ -21,3 +21,6 @@ Simulated data are used in this repository for reproducibility.
 
 ## Notes
 This work was conducted under academic supervision.
+## Authorship
+Author: Atefeh Asadi  
+If you use this code, please cite or reference this repository.
