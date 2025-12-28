@@ -1,5 +1,5 @@
 # MERF-simulation
-MSc thesis project – model comparison on clustered data
+MSc thesis project model comparison on clustered data
 # Mixed Effects and Machine Learning Models on Clustered Data
 
 This repository contains R code developed as part of my MSc thesis in Statistics.
