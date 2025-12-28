@@ -1,4 +1,7 @@
-
+# Mixed Effects Regression Tree (MERT)
+# This implementation is based on existing academic work.
+# The original algorithm was not developed by the author.
+# Used here for simulation based performance comparison.
 
 library(MASS)
 library(tree)
@@ -120,6 +123,7 @@ PMSE[k] = mean((data.test$y  - tree.pred)^2)
 summary(PMSE)
 sd(PMSE)
 PMSE
+
 
 
 
